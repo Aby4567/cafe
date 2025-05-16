@@ -1,0 +1,201 @@
+*{
+    background-color: #000;
+    color: white;
+}
+ nav ul {
+    list-style-type: none;
+    padding:0%;
+    margin: 0%;
+}
+nav ul li{
+    margin: 0%; 
+    padding: 20px;   
+}
+li{
+    float: right;
+}
+
+.font {
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+  }
+.c1{
+    width: 30%;
+    height: 30%; 
+}
+
+.font2{
+    font-size:xxx-large;
+    font-family: "Playfair Display SC", serif;
+
+}
+.btn{
+    background-color:sandybrown;
+    color: black;
+    padding: 10px;
+    font-family: sans-serif;
+    border: none;
+    
+}
+
+.first{
+    width: 500px;
+    margin-top: 15%;
+    padding-left: 60%;
+    background: url("img/c2.png");
+    background-repeat: no-repeat;
+    background-position: left;
+    margin-left: auto;
+    
+}
+.story{
+    font-size: xxx-large;
+    margin-right: 25%;
+    
+}
+.history{
+    font-family: "Sacramento", cursive;
+    font-weight: 400;
+    font-style: normal;
+    margin-right: 25%;
+}
+.second{
+    margin-top: 15%;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 30px;
+
+    
+}
+.perfect{
+    margin-left: 25%;
+    font-size:xxx-large;
+    margin-right: 25%;
+    
+
+}
+.cafe{
+    margin-left: 25%;
+    font-family: "Sacramento", cursive;
+    font-weight: 400;
+    font-style: normal;
+
+}
+.btn2{
+    background-color:sandybrown;
+    color: black;
+    padding: 10px;
+    font-family: sans-serif;
+    border: none;
+    margin-left: 25%;
+    
+}
+
+.img{
+    width: 400px;
+    height: auto;
+    
+}
+.img-container{
+    flex: 1;
+    display: flex;
+    padding-left: 25%;
+    
+}
+.text-box {
+    flex: 1;
+}
+.third{
+    margin-top: 15%;
+}
+.product{
+    margin-top: 15%;
+    padding-left: 9%;
+    font-size:xxx-large;
+}
+.card{
+    width: 250px;
+    height:350px;
+    padding-top: 60px;
+    border: 2px solid sandybrown;
+    text-align: center;
+    position: relative;
+}
+.cap{
+    margin-top: 15%;
+    font-size: 18px;
+
+}
+.type1{
+    margin-top: 30%;
+
+}
+.legend{
+    position: absolute;
+    top: -30px;
+    left: 50%;
+    width: 50px;
+    height: 50px;
+    object-fit: cover;
+    transform: translate(-50%);  
+}
+.card-container{
+    display: flex;
+    justify-content: center;
+    gap: 15%;
+    flex-wrap: wrap;
+    margin-top: 10%;
+}
+.btn3{
+    background-color:sandybrown;
+    color: black;
+    padding: 10px;
+    font-family: sans-serif;
+    border: none;
+    margin-top: 20%;
+    
+}
+.line{
+    margin-top: 10%;
+    width: 500px;
+    color: sandybrown;
+}
+.container{
+    margin-top: 25%;
+    margin: 20px;
+    max-width: 300px;
+    text-align: center;
+    gap: 20px;
+    
+}
+.heading-info {
+  margin-bottom: 20px;
+  
+}
+.about{
+    padding-left: 20%;
+    
+}
+.us{
+    padding-left: 17%;
+}
+footer{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    margin-top: 5%;   
+}
+.line2{
+
+    width: 500px;
+    color: sandybrown;
+    margin-top: 5%;
+}
+.copyright{
+    text-align: center;
+}
